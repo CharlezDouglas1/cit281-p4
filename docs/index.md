@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to Project 4 Review
 
-You can use the [editor on GitHub](https://github.com/CharlezDouglas1/cit281-p4/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+For this project we were preparing ourselves to Gain experience interpreting functional descriptions and specifications to complete an assignment and also
+Gain experience breaking a project into manageable components
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Main TakeAway/Interest From this Project:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CharlezDouglas1/cit281-p4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- My main interest was the apesct when we had to use the 'REST API" server inside VSC was really a big interest for overall just because of how much the REST API can do, and the verbs that come along with that such as POST, PUT, DELETE
